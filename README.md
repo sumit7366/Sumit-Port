@@ -235,4 +235,15 @@ If you want, I can also:
 - Add scripts that check `server/uploads` exists and create it if missing
 - Add a `.env.example` and a short startup script
 
-Enjoy building and customizing your portfolio! 🚀
+
+## 📬 Contact
+
+If you’d like to connect or have questions about this project, feel free to reach out:
+
+- 📧 **Email:** [sumitranjanhisu@gmail.com](mailto:sumitranjanhisu@gmail.com)  
+- 💼 **LinkedIn:** [linkedin.com/in/sumitkumarrr](https://www.linkedin.com/in/sumitkumarrr)  
+- 📸 **Instagram:** [instagram.com/9._sumit](https://www.instagram.com/9._sumit)
+
+
+
+Enjoy building and customizing your portfolio! 
